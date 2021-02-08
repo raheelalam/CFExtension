@@ -8,9 +8,9 @@
   "parameters": {
     "instance": [
       {
-        "id": "defaultAlgolia",
+        "id": "defaultAlgolia1",
         "name": "Default Algolia test1",
-        "description": "Set which value to use as the default algolia",
+        "description": "Set which value to use as the default algolia ",
         "type": "Enum",
         "options": [
           {
